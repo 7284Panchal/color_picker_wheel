@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
         body: SafeArea(
           child: ColorPickerWheel(
             colorListener: (color) {
-              print("Color select :${color.value}");
+              print("${color.toString()}");
             },
           ),
         ),
