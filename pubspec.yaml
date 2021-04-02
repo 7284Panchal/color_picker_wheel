@@ -1,6 +1,6 @@
 name: color_picker_wheel
 description: A simple color picker to select color from given range of colors and set its shade more darker or lighter
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/7284Panchal/color_picker_wheel
 
 environment:

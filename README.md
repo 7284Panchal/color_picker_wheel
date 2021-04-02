@@ -2,7 +2,6 @@
  A simple color picker to select color from given range of colors and set its shade more darker or lighter
 
 ### Screenshots
-
 <img src="ss1.png" height="300em" />
 
 ## Usage
